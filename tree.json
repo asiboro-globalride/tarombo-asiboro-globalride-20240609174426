@@ -57,7 +57,13 @@
       "id": "I2*16aafbbf-ed67-4345-857c-500cd28115cd",
       "names": [
         {
-          "value": "person 2\u0027s name //"
+          "value": "connector"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "_CONN",
+          "value": "asiboro-globalride/tarombo-asiboro-globalride-20240610062920"
         }
       ]
     }
